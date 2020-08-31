@@ -12,7 +12,7 @@
   </head>
 
   <body>
-  <article class="mx-auto prose prose-sm sm:prose lg:prose-lg xl:prose-xl">
+  <article class="p-4 mx-auto prose prose-sm sm:prose lg:prose-lg xl:prose-xl">
 
 # Welcome to Adam Cheng's Football Betting Masterclass.
 
@@ -34,7 +34,21 @@ But despite this pressure, he has:
 
 - had **28 out of 31** winning months
 
-Now he's sharing every step of his betting process with a handful of driven people who want to take their betting game to the next level.
+No wonder he's got a smile on his face...
+
+![adamface](/img/adamface.png)
+
+After seeing these results, I was determined to find out exactly how Adam does it.
+
+Adam agreed, and after six months of in-depth discussions, weekly recordings, writing pages and pages of guides, and testing it all on real-life betting examples we've transformed his entire approach into a step-by-step process anyone can follow.
+
+The result is **Adam Cheng's Football Beting Masterclass**.
+
+And today we'd like to invite you to become a student.
+
+!
+Now, through his masterclass, Adam's sharing every step of his betting process so you can follow in his footsteps and take your betting game to the next level.
+!
 
 ## Quick links:
 
@@ -80,7 +94,7 @@ Here are the goals of Adam's masterclass:
 
 - Rinse every ounce of betting knowledge out of Adam and deliver it to you in practical, easy to follow steps
 
-- Give you full access to the 'behind the scenes' discussions between me and Adam, so no valuable insight is hidden
+- Give you full access to the 'behind the scenes' discussions between me and Adam, so no valuable insight is hidden from you
 
 - Supply you with tools to help automate parts of Adam's strategy
 
@@ -603,7 +617,6 @@ Student feedback
 
 To show you how to banish your betting demons - those pesky creatures that keep tempting you to do bad stuff, like take rubbish prices, chase losers, or get stuck trading one market
 
-
 **What you'll learn:**
 
 - How Adam builds his strengths from MULTIPLE "layers"
@@ -761,43 +774,45 @@ https://youtu.be/m-ADXwQt26Q
 
 <div x-show="open" @click.away="open = false">
 
-- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16 8A6 6 0 1 0 4 8v11H2a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2V8a8 8 0 1 1 16 0v3a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2V8zm-4 2h3v10h-3V10zm-7 0h3v10H5V10z"/></svg> x mins audio discussion
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16 8A6 6 0 1 0 4 8v11H2a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2V8a8 8 0 1 1 16 0v3a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2V8zm-4 2h3v10h-3V10zm-7 0h3v10H5V10z"/></svg> 1 hour 13 min audio discussion
 
-- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M4 18h12V6h-4V2H4v16zm-2 1V0h12l4 4v16H2v-1z"/></svg> x page guide
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M4 18h12V6h-4V2H4v16zm-2 1V0h12l4 4v16H2v-1z"/></svg> 46 page guide + 100 page guide
 
-- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16 7l4-4v14l-4-4v3a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v3zm-8 7a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0-2a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/></svg> x mins video walkthrough
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16 7l4-4v14l-4-4v3a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v3zm-8 7a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0-2a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/></svg> 1 hour 13 min video walkthrough (with Adam)
 
-- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 4c0-1.1.9-2 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm6 0v12h8V4H6zM2 5v2h2V5H2zm0 4v2h2V9H2zm0 4v2h2v-2H2zm14-8v2h2V5h-2zm0 4v2h2V9h-2zm0 4v2h2v-2h-2zM8 7l5 3-5 3V7z"/></svg> X highlight clips
-
-- <svg class="fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M3.94 6.5L2.22 3.64l1.42-1.42L6.5 3.94c.52-.3 1.1-.54 1.7-.7L9 0h2l.8 3.24c.6.16 1.18.4 1.7.7l2.86-1.72 1.42 1.42-1.72 2.86c.3.52.54 1.1.7 1.7L20 9v2l-3.24.8c-.16.6-.4 1.18-.7 1.7l1.72 2.86-1.42 1.42-2.86-1.72c-.52.3-1.1.54-1.7.7L11 20H9l-.8-3.24c-.6-.16-1.18-.4-1.7-.7l-2.86 1.72-1.42-1.42 1.72-2.86c-.3-.52-.54-1.1-.7-1.7L0 11V9l3.24-.8c.16-.6.4-1.18.7-1.7zM10 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg> 2 spreadsheet tools
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M3.94 6.5L2.22 3.64l1.42-1.42L6.5 3.94c.52-.3 1.1-.54 1.7-.7L9 0h2l.8 3.24c.6.16 1.18.4 1.7.7l2.86-1.72 1.42 1.42-1.72 2.86c.3.52.54 1.1.7 1.7L20 9v2l-3.24.8c-.16.6-.4 1.18-.7 1.7l1.72 2.86-1.42 1.42-2.86-1.72c-.52.3-1.1.54-1.7.7L11 20H9l-.8-3.24c-.6-.16-1.18-.4-1.7-.7l-2.86 1.72-1.42-1.42 1.72-2.86c-.3-.52-.54-1.1-.7-1.7L0 11V9l3.24-.8c.16-.6.4-1.18.7-1.7zM10 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg> 2 spreadsheet tools
 
 **Goal:**
 
-Something
+To show you step-by-step how to implement Adam's "weird arrow" strategy on the player passes and player performance markets - this strategy contributes the most profits to his betting income of £20,951 per month
 
 **What you'll learn:**
 
+- How to implement Adam's "weird arrow" strategy step-by-step on the player performance and passes markets
+  
 - Adam's trusted stats sources (one free, the other £10 per year)
 
-- The nitty gritty details of how he wins on player performance and passes markets
-
-- A rundown of his personal betting spreadsheet (and how he uses it)
+- A in-depth look at his personal betting spreadsheet (and how he uses it)
 
 - The number #1 stat to predict player performance and passes markets (it's NOT players stats!)
 
+- Where and how to "mine" data to give you an edge in these markets
+  
+- A "quick-fire mode" to spot mispriced odds on these markets in as little as 10 minutes
+
 - The exact process Adam uses to turn stats into bets
 
-- Spread betting staking advice
+- Spread betting staking advice (with two different risk level "settings")
 
 - Plus a whole lot more
 
 **Action "Do this" steps:**
 
-
+1. This entire lesson is a "Do this" section, showing you step-by-step exactly how to use Adam's "weird arrow" strategy on his two favourite markets, player passes and player performance
 
 **Additional learning:**
 
-
+Adam's strategy can be used on traditional fixed odds bets and spread betting. If you've never spread bet before, don't worry! The spread betting version of the guide included in this lesson includes avice from Adam on how to manage your spread betting account and formulas for knowing the exact amount to stake on each bet depending on your risk tolerance and bank size 
 
 **Free highlight clip:**
 
@@ -808,20 +823,82 @@ https://youtu.be/m-ADXwQt26Q
 
 ### Total lesson content
 
-!do inline-block total with bigger svg icons... oohhh won't that be fun for mobile
+Altogher your're getting:
+
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16 8A6 6 0 1 0 4 8v11H2a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2V8a8 8 0 1 1 16 0v3a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2V8zm-4 2h3v10h-3V10zm-7 0h3v10H5V10z"/></svg> 6 hours 25 min of audio discussion
+
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M4 18h12V6h-4V2H4v16zm-2 1V0h12l4 4v16H2v-1z"/></svg> 490 pages of guide
+
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16 7l4-4v14l-4-4v3a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v3zm-8 7a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0-2a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/></svg> 6 hours 1 min of video walkthrough
+
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M3.94 6.5L2.22 3.64l1.42-1.42L6.5 3.94c.52-.3 1.1-.54 1.7-.7L9 0h2l.8 3.24c.6.16 1.18.4 1.7.7l2.86-1.72 1.42 1.42-1.72 2.86c.3.52.54 1.1.7 1.7L20 9v2l-3.24.8c-.16.6-.4 1.18-.7 1.7l1.72 2.86-1.42 1.42-2.86-1.72c-.52.3-1.1.54-1.7.7L11 20H9l-.8-3.24c-.6-.16-1.18-.4-1.7-.7l-2.86 1.72-1.42-1.42 1.72-2.86c-.3-.52-.54-1.1-.7-1.7L0 11V9l3.24-.8c.16-.6.4-1.18.7-1.7zM10 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg> 2 spreadsheet tools
+
+Breathe!
+
+I know, that's a lot of content.
+
+But you can take things at your own pace.
+
+The course is designed to introduce you to each of Adam's main betting concepts one by one, master them, and then move onto the next.
+
+This is a learning experience that takes time.
+
+But unlike traditional learning, you can listen to the audio discussions wherever you are and whatever else you're doing, so you're never tied to a computer screen.
+
+Also, you can chat with our growin community about the concepts you're learning from Adam, so you're never alone as we're developing your betting together.  
 
 ## Can I see Adam's full track record?
 
-Sure:
+Sure, here's Adam's track record up to when this masterclass launched:
 
 | Month/Year   | Profit       | Cumulative   |
 | ------------ | ------------ | ------------ |
-| May 2017     | £20,000      | £20,000      |
-| June         | £10,000      | £30,000      |
-| July         | £15,000      | £45,000      |
-| August       | £5,000       | £50,000      |
+| May 2017     | £73,810      | XXXXXXX      |
+| Jun          | £10,145      | XXXXXXX      |
+| Jul          | -£8,085      | XXXXXXX      |
+| Aug          | £10,165      | XXXXXXX      |
+| Sep          | £41,840      | XXXXXXX      |
+| Oct          | £4,475       | XXXXXXX      |
+| Nov          | £5,580       | XXXXXXX      |
+| Dec          | £6,010       | XXXXXXX      |
+| Jan 2018     | -£7,090      | XXXXXXX      |
+| Feb          | £11,380      | XXXXXXX      |
+| Mar          | £4,920       | XXXXXXX      |
+| Apr          | £31,590      | XXXXXXX      |
+| May          | XXXXXXX      | XXXXXXX      |
+| Jun          | £25,285      | XXXXXXX      |
+| Jul          | XXXXXXX      | XXXXXXX      |
+| Aug          | £36,995      | XXXXXXX      |
+| Sep          | £2,245       | XXXXXXX      |
+| Oct          | £11,390      | XXXXXXX      |
+| Nov          | £13,270      | XXXXXXX      |
+| Dec          | £12,545      | XXXXXXX      |
+| Jan 2019     | £13,385      | XXXXXXX      |
+| Feb          | £21,815      | XXXXXXX      |
+| Mar          | £22,280      | XXXXXXX      |
+| Apr          | £10,925      | XXXXXXX      |
+| May          | £54,090      | XXXXXXX      |
+| Jun          | £12,675      | XXXXXXX      |
+| jul          | £26,670      | XXXXXXX      |
+| Aug          | -£9,530      | XXXXXXX      |
+| Sep          | £3,590       | XXXXXXX      |
+| Oct          | £2,740       | XXXXXXX      |
+| Nov          | £13,795      | XXXXXXX      |
+| Dec          | £15,385      | XXXXXXX      |
+| Jan 2020     | £8,445       | XXXXXXX      |
+| Feb          | £13,075      | XXXXXXX      |
+| Mar          | XXXXXXX      | XXXXXXX      |
+| Apr          | XXXXXXX      | XXXXXXX      |
+| May          | XXXXXXX      | XXXXXXX      |
+| Jun          | XXXXXXX      | XXXXXXX      |
+| jul          | XXXXXXX      | XXXXXXX      |
+| Aug          | XXXXXXX      | XXXXXXX      |
 
-And here are some betting slips from some of his bets:
+As the table shows, Adam's out of the 31 months he's been a pro punter, 28 have been profitable.
+
+That's a positive monthly strike rate of 90%.
+
+And, to give you an idea of the kind of profits he's making per bet, here are some of his betting slips:
 
 <div class="border-2 shadow-md">
 
@@ -841,7 +918,7 @@ And here are some betting slips from some of his bets:
 
 Remember, Adam stakes big because he's so confident in his edge.
 
-But even with smaller stakes, his strategies are hugely profitable/
+But even with smaller stakes, his strategies are hugely profitable.
 
 For example, the above bets would have...
 
@@ -850,6 +927,8 @@ Turned £15 into **£234**.
 £75 into **£678**.
 
 And £150 into **£783**.
+
+So, even if you're staking £10 to £15 per bet, you can still make a very tidy return following Adam's strategies and guidance.
 
 ## Can anyone do this?
 
@@ -861,8 +940,23 @@ Sure, everyone will find it interesting - and maybe simply listening to the audi
 
 But really, the masterclass is designed for people who want to take t
 
-Maybe you're fed up of forking out for 
+In fact, I imagine some people will be put off by the idea of taing an approach to their betting that requires some work - and getting the most out of Adam's teachings does require work.
 
+If you're happy paying monthly for a tipping service for someone else to tell you what bets to take, then this probably isn’t for you.
+
+This masterclass is designed for a different audience...
+
+People with a bit of get up and go about them, who want to take their betting to the next level and who arn't 
+
+Maybe that's just making a consistent seocnd income every month, or even becoming a pro bettor, like our early access member Neel Shah.
+
+
+- Never pay for a tipster service again
+  
+- Make betting into a real second income
+  
+- Understand how the bookmakers work, so you can understand
+- 
 
 Maybe you even
 
@@ -870,57 +964,58 @@ Adam's masterclass is tailor-made for you.
 
 As our early access member Neel says:
 
-<div class="bg-indigo-50 p-4 text-center shadow-md">
-
-### *"The core of the course was about learning. There were actionable strategies that were simple to understand that could be applied straight away.*
-
-### *"I really liked the homework exercises and recommended reading. This gave the course and the air of academics and reinforce the idea that this is something that requires effort and cannot be followed by blindly"*
-Masterclass student, Neel Shah
-
-</div>
-
-Something
+> The core of the course was about learning. There were actionable strategies that were simple to understand that could be applied straight away.
+> 
+> "I really liked the homework exercises and recommended reading. This gave the course and the air of academics and reinforce the idea that this is something that requires effort and cannot be followed by blindly.
 
 ## How about if I only stake small?
 
-Adam often bets with £500+.
+Adam often stakes £500+.
 
 This is because he's extremely confident in the edge he has (the same one he helps you develop throughout his masterclass).
 
-But there's no reason for you to bet with such big stakes.
+But there's no reason for you to bet with such large stakes.
 
 In fact, Adam actually says that smaller stakes are better for his approach.
 
-There are two reasons for this:
+Here's why:
 
-!
+Much of Adam's monthly betting income comes from two niche markets, player performance and player passes.
 
-Because much of Adam's profits come from two niche markets there's a limit to the size of bets you can get on (£500 is about the realistic limit) without getting flagged by the bookmakers.
+When betting on small markets like this, there's a natural limit your stake size, at least if you're concerned about flying under the bookmaker's radar.
 
-But if you have a smaller account:
+But if you have a smaller betting bank, you can stake a larger proprotion of your of it without bookmakers noticing (espeically if you're following the bookie ban hammer dodging guidelines in Lesson 3 of this masterclass).
 
-1. You can get more of your relative bank account on
-2. Maybe there is only one reason
-
-!Can you find a quote from him somewhere?
+So, your relative profits will be greater than Adam's!
 
 ## What if my accounts are restricted?
 
 This is a huge issue all bettors are facing right now.
 
-And as bookmakers trade slamming down the ban hammer over improving their pircing game, it looks like it's only going to get worse.
+Instead of hiring people with the skill to price up markets properly, bookmakers have resorted to swinging the ban hammer at anyone who makes a profit.
 
-The good news is in Lesson 3 Adam shares all his 
+Yuck!
 
-While, yes, his accounts eventually get restricted, since 2017 he's been able to sustain making an average of £20,951 per month.
+The good news is in **Lesson 3: How Adam Dodges the Bookie Ban Hammer** Adam shares all of his bookie dodging secrets.
 
-So, he knows many tricks and techniques for keeping accounts open and flying under the bookmakers radar for as long as possible.
+And, boy, are some of these off the charts in terms of creativity!
 
-We go into this in-depth in **Lesson 3: How Adam Dodges the Bookie Ban Hammer** (this was actually indended to be a later lesson, but an early access member requested it be brought forward, so I know it's a hot issue for many people),
+Sure, like anyone Adam's bettting accounts eventually get restricted.
+
+But since 2017 he's been able to sustain making an average of £20,951 per month.
+
+That's because he's developed many tricks and tractics for flying under bookmaker radars and keeping his accounts open for as long as possible.
+
+If you'd like more details on what adam does, check out the breakdwon of Lesson 3 in the [What will I learn in each lesson?](#) section on this page.
 
 Also, if you're current accounts are restrcited, Adam shows you exactly how he gets hold of new ones - and even how to create a profitable "mini business" out of it.
 
-Again, this is all in Lesson 3 of the masterclass.
+**Note:** Our bookie ban hammer dodging lesson was actually indended to come later in the masterclass, but an early access member requested we bring it forward - and, of course, we complied.
+
+This shows two things:
+
+1. Getting restrictions is a hot issue for many people (so, you're not alone)
+2. We put our members first! In fact, the whole masterclass is an effort to do this
 
 ## Can I chat with other students?
 
@@ -930,25 +1025,35 @@ Only joking.
 
 We have a private Telegram group for students.
 
-Several things go on in here.
+This is where we help each other implement Adam's strategies, and even share our .
 
-First of all, we help each other implement Adam's strategies.
+As you can see, two of our members made profits on their first bets using Adam's "weird arrow" strategy...
 
-As you can see, two of the members made profits on their first bets using Adam's "weird arrow" strategy...
+![fredwinner](/img/fredwinner.png)
 
-!
+Here's me sharing some Monday morning passes market analysis...
 
-Second, we share new insights and as we make progress...
+![meanalysis](/img/meanalysis.png)
 
-!
+And our member Paul getting stuck in with his own analysis...
 
-And with Josh Allen and Neel as part of the group, there's a lot of expert knowledge and enthusiasm knocking around.
+![paulanalysis](/img/paulanalysis.png)
 
-Surrouding yourself with the right people is half of winning the betting game.
+With pro bettor Josh Allen and aspiring pro Neel Shah as part of the group, there's a lot of expert knowledge and enthusiasm knocking around.
 
-And we're building a community of bettors who want to take things to the next level and have fun while they're doing it.
+For example, here's Neel and I discussing the impact of not having a crowd on the passes market during the COVID precautions...
 
-You're welcome to join us.
+![neelanalysis](/img/neelanalysis.png)
+
+Surrouding yourself with the right people is an essential part of taking your betting to the next level.
+
+And we're building a community of bettors who want to make more money,  and have fun while they're doing it.
+
+You're more than welcome to join us.
+
+**Note:** If you're unfamiliar with Telegram, don't worry. It's simply a free messaging app available on iPhone and Android phones. We use it because, unlike WhatsApp, you don't need to provide me with your mobile numbers to chat.
+
+I provide full details on how to join the group when as soon as you become a masterclass member. It's easy, basically involves downloading the app on your hone and tapping a link - something that takes about 50 seconds!
 
 <div class="bg-indigo-50 p-4 text-center">
 
@@ -1024,9 +1129,13 @@ As I say, this won't be for everyone.
 
 But for the right person it's an absolute bargain.
 
-As our member Neel says, !"quote from Neel"
+As our member Neel says, !"real deal quote from Neel?"
 
-By the way, I use Gumroad as a payment processor and they display the price at checkout in dollars, but you'll be billed in sterling.
+And our early access member Paul has kind words about the masterclass too...
+
+![paulkindwords](/img/paulkindwords.png)
+
+**Note:** I use Gumroad as a payment processor and they display the price at checkout in dollars, but you'll be billed in sterling.
 
 ## Can I pay in installments?
 
@@ -1042,60 +1151,131 @@ But I understand that due to the cornovirus the year has been financially tough 
 
 Yes.
 
-You'll have 7 days to try out Adam's masterclass.
+You'll have 7 days to try out **Adam's Football Betting Masterclass**.
 
-Of course, you could
+This is enough time to have a proper look around the masterclass material and go through some of the lessons to decide for yourself what you think of them.
 
-And you'd be missing out on the private
+It wil lalso give you time to get involved with our community in the Telegram group (if you want to).
 
-I feel it's better to be super transparent with this.
+If you decide this isn't for you, just drop me an email at [hellobetmentor@gmail.com](mailto:hellobetmentor@gmail.com) or send me a message on Telegram within the 7 days and I'll give you a full refund.
 
-So, just let me drop me an email at [hellobetmentor@gmail.com](mailto:hellobetmentor@gmail.com) or send me a message on Telegram within the 7 days and I'll give you a full refund.
+And if you're a few hours over the time limit...
 
-And if you're a few hours over... I'll prob still give you one because I'm a generous soul!
+I'll prob still give you a refund because I'm a generous soul!
 
-## Can I try this out?
+The best thing to do first though is go through the free intro lesson.
+
+See the next section for a download link!
+
+## Can I try before I buy?
 
 Yes.
 
-Click the button below to download the intro lesson free.
+Hit the button below to download a copy of the lesson **Intro: Get To Know Your Bet Mentor Adam Cheng** for free:
 
-!Download this lesson free
+<button class="bg-indigo-700 hover:bg-indigo-500 text-white font-bold py-2 px-4 rounded">
+  Download this lesson
+</button>
 
 As mentioned above, it includes:
 
-40 min audio discussion
-15 page guide
-7 highlight clips
-XX video walkthrough
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16 8A6 6 0 1 0 4 8v11H2a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2V8a8 8 0 1 1 16 0v3a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-2V8zm-4 2h3v10h-3V10zm-7 0h3v10H5V10z"/></svg> 40 min audio discussion
+
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M4 18h12V6h-4V2H4v16zm-2 1V0h12l4 4v16H2v-1z"/></svg> 14 page guide
+
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M16 7l4-4v14l-4-4v3a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4c0-1.1.9-2 2-2h12a2 2 0 0 1 2 2v3zm-8 7a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm0-2a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/></svg> 27 min video walkthrough
+
+- <svg class="inline-block fill-current text-indigo-700 h-6 w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M0 4c0-1.1.9-2 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm6 0v12h8V4H6zM2 5v2h2V5H2zm0 4v2h2V9H2zm0 4v2h2v-2H2zm14-8v2h2V5h-2zm0 4v2h2V9h-2zm0 4v2h2v-2h-2zM8 7l5 3-5 3V7z"/></svg> 7 highlight clips
 
 And you'll learn:
 
-- something
-- something
-- something
+- How Adam makes as much as £73,810 per month
 
-## Can I have a discount?
+- The #1 quality for profitable betting
 
-Tell you what,
+- Adam's core philosophy - this underpins ALL of his bets
+
+- Why value is KING
+
+- How Adam can bet thousands WITHOUT the bookies noticing
+
+- Why humans win vs machines
+
+- Adam's most memorable win (£44,000 profit)
+
+- And his most annoying losers!
+
+- The trick of seeing betting money as marbles
+
+- Why fun bets can be a GOOD thing
+
+- Plus a whole lot more
+
+This lesson should give you a good idea of the format of the lessons.
+
+If you enjoy it, consider joining us for the full masterclass.
+
+<button class="bg-indigo-700 hover:bg-indigo-500 text-white font-bold py-2 px-4 rounded">
+  Download this lesson
+</button>
 
 ## Can I buy lessons individually?
 
-The course was designed as a whole.
+Not at the moment.
 
-So, not at the moment.
+The course was designed as a whole, with each lesson building on the next.
 
-But I might consider it if there's enough demand for one of the lessons.
+That said, many of the lessons contain standalanone secrets, insights, and advice that will help improve your betting even if you're not going through the masterclass in order.
 
-Shoot me an email at [hellobetmentor@gmail.com](mailto:hellobetmentor@gmail.com) if you really (really, really) only want to buy one of them.
+For example, **Lesson 3: How Adam Dodges the Bookie Ban Hammer** shows you little-known secrets for avoiding bookie restrictions - something every punter could do with knowing.
+
+And **Lesson 5: The Power of Probability, Adam's Secret Weapon** is also applicable to all areas of your betting.
+
+In fact, really taking on board the insights in this lesson could completely tranform the way you look at betting forever.
+
+So, tell you what...
+
+If you are interested in buying any of the lessons seperately, shoot me an email at [hellobetmentor@gmail.com](mailto:hellobetmentor@gmail.com) and I'll see what I can do.
 
 ## Does this have super duper production values?
 
-## How did the course come about?
+Nope.
 
-£500,000 "easy" story.
+In fact, unlike most online courses out there, this is a bit "rough and ready"
 
-!Final buy button
+But, I actually see that as a good thing.
+
+Too many online courses focus on the wrong stuff:
+
+- Short videos that promote surface level understanding
+
+- Production value over valuable content
+
+- Canned scripts that feel impersonal and robotic
+
+- Video camera pointing at somebody’s face (I’m not learning a lot from your eyebrows…)
+
+- And slides, slides, ENDLESS slides (did I mention slides?)
+
+No one should be paying a premium price for a glorified PowerPoint presentation.
+
+Especially if all you’re left with is surface level understanding and no real skill development.
+
+Working with Adam, I knew we could do better.
+
+That's why we give you full access to the recordings of all our dicussions about his betting approach.
+
+No secret or insight is hidden from you - especially as I constantly push Adam to break down exactly how he does things.
+
+You get to witness all of this.
+
+Then, of course, I turn all Adam's insights into practical step-by-step strategies and takeaways you can easily follow a long with.
+
+So, you get the best of both worlds:
+
+Full "behind the scenes" access to every part of Adam's betting.
+
+And practical step-by-step instructions you can follow to copy everything he's doing.
 
 [hellobetmentor@gmail.com](mailto:hellobetmentor@gmail.com)
 

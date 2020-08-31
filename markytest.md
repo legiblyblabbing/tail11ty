@@ -54,7 +54,7 @@ Okay, I had to find out more. Adam must be doing something different to be makin
 
 I mean, take a look at his track record:
 
-| Month/Year          | Profit       | Cumulative         |
+| Month/Year              | Profit       | Cumulative         |
 | ----------------------- | ------------ | ------------------ |
 | May 2017                | £20,000      | £20,000            |
 | June                    | £10,000      | £30,000            |
