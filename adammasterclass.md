@@ -12,11 +12,20 @@
   </head>
 
   <body>
-  <article class="p-4 mx-auto prose prose-sm sm:prose lg:prose-lg xl:prose-xl">
-
-# Welcome to Adam Cheng's Football Betting Masterclass.
-
-### Sit down with pro punter Adam Cheng as he teaches you step-by-step how to make £20,951 per month (without getting banned).
+<main class="mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 xl:mt-28">
+      <div class="text-center">
+        <h2 class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl">
+          Welcome to
+          <br class="xl:hidden">
+          <span class="text-indigo-600">Adam Cheng's Football Betting Masterclass</span>
+        </h2>
+        <p class="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+          Sit down with pro punter Adam Cheng as he teaches you step-by-step how to make £20,951 per month (without getting banned).
+        </p>
+</main>
+</br>
+</div>
+<article class="p-4 mx-auto prose prose-sm sm:prose lg:prose-lg xl:prose-xl">
 
 ***
 
@@ -49,6 +58,26 @@ The result is **Adam Cheng's Football Beting Masterclass**. And today we'd like 
 -->
 
 Now, through his masterclass, Adam's sharing every step of his betting process so you can follow in his footsteps and take your betting game to the next level.
+
+</article>
+<div class="bg-indigo-700">
+  <div class="max-w-screen-xl mx-auto text-center py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+    <h2 class="text-3xl leading-9 font-extrabold tracking-tight text-white sm:text-4xl sm:leading-10">
+      Ready to dive in?
+      <br>
+      Download the intro lesson free.
+    </h2>
+    <div class="mt-8 flex justify-center">
+      <div class="inline-flex rounded-md shadow">
+        <a href="#" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-500 hover:bg-indigo-400 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out">
+          Download free lesson
+        </a>
+      </div>    
+      </div>
+    </div>
+  </div>
+
+<article class="p-4 mx-auto prose prose-sm sm:prose lg:prose-lg xl:prose-xl">
 
 ## Quick links:
 
@@ -136,7 +165,7 @@ You'll find it in the "Do this" section of the guide for **Lesson 6**.
 
 Another benefit of the audio format is that you can listen to these discussions wherever you are and whatever you're doing.
 
-You can improve your betting while your driving, washing up, relaxing on the sofa, going for a walk... even on the toilet...
+You can improve your betting while you're driving, washing up, relaxing on the sofa, going for a walk... even on the toilet...
 
 Just pop a pair of headphones in and the whole world becomes your learning playground!
 
